@@ -1,0 +1,17 @@
+Código da agência;Nome da agência;Código do tipo da agência;Possui Documento; Tipo de Agência
+1;Agência Alpha;E;1;AG
+2;Agência Beta;I;0;PA
+3;Agência Gamma;A;1;PB
+4;Agência Delta;R;1;PAE
+5;Agência Epsilon;S;0;PAB
+6;Agência Zeta;E;1;AG
+7;Agência Eta;I;1;PA
+8;Agência Theta;A;0;PB
+9;Agência Iota;R;0;PAE
+10;Agência Kappa;S;1;PAB
+11;Agência Lambda;E;0;AG
+12;Agência Mi;I;1;PA
+13;Agência Ni;A;0;PB
+14;Agência Xi;R;1;PAE
+15;Agência Ômicron;S;0;PAB
+2000;Agência Ômega;S;1;PAB
